@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <title>Terezínský varhanní festival</title>
+  <meta name="description" content="Terezínský varhanní festival">
+  <meta name="author" content="Terezínský varhanní festival">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="//fonts.googleapis.com/css?family=Merriweather:300,400,700&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+
+  <link rel="icon" type="image/png" href="../img/favicon.png">
+  <link href="css/base.css" rel="stylesheet" type="text/css">
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+  <link href="css/navmenu.css" rel="stylesheet" type="text/css">
+  <link href="css/gallery.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="header">
+<div class="container main-nav">
+	<a href="/index" class="main-nav__logo">
+		<img src="img/Terezinsky_varhanni_festival_logo.jpg" alt="Terezínský varhanní festival">
+	</a>
+	<nav class="fl">
+		<a href="" class="main-nav__burger js-nav">
+			 <i class="icon-reorder"></i>
+		</a>
+		<div class="main-nav__block">
+			
+								<a href="/uvod" class="	">Úvod</a>
+								<a href="/o_varhanach" class="">O varhanách</a>
+								<a href="/fotogalerie" class="">Fotogalerie</a>				
+	
+									<a href="/kontakt" class="">Kontakt</a>
+									<a href="/partneri" class="">Partneři</a>
+									<a href="/aktualni_rocnik" class="">Aktuální ročník</a>
+							
+		</div>
+	</nav>
+</div>
+</div>
+
+
+<div id="main" class="container">
+  <img class="vernisaz" src="img/KPZ_otevrena_vrata_new.jpg"  width="" height="" alt="homepage_image">
+	
+	<h4 class="vernisaz_info"><a target="_blank" href="https://docs.google.com/document/d/1tlNQzTd5gloEtpKNM7Ic3igjgx6CpnWL7SXkuIEyA9g/edit">INFORMACE A REGISTRACI NALEZNETE ZDE</a></h4>
+
+  </div>
+  <br>
+  <br>
+
+        
+        
+        
+<div class="container">     
+<div class="one-half column block-contact">
+        <table class="noborder"><tbody>
+ 	  <tr><td class="label">Adresa</td><td>Za Oborou 34, Praha 6  16900</td></tr>
+          <tr><td class="label">Email</td><td><a href="mailto:info@Terezínský varhanní festival.cz">info@Terezínský varhanní festival.cz</a></td></tr>
+          <tr><td class="label">Mobil</td><td>+420 605 505 529</td></tr>
+        </tbody></table>
+      </div>
+      <div class="one-half column block-contact">
+        <table class="noborder"><tbody>
+          <tr><td class="label">Facebook</td><td><a target="_blank" href="https://www.facebook.com/cestadokrajiny">https://www.facebook.com/cestadokrajiny</a></td></tr>
+          <tr><td class="label">Blog</td><td><a target="_blank" href="http://blog.Terezínský varhanní festival.cz">blog.Terezínský varhanní festival.cz</a></td></tr>
+          <tr><td class="label">Google+</td><td><a target="_blank" href="https://plus.google.com/u/0/communities/101783831094360976826">KPZ Terezínský varhanní festival</a></td></tr>
+        </tbody></table>
+      </div>        
+<p>&nbsp;</p>
+  
+<div>
+<p><small>Terezínský varhanní festival z.s.
+Spolek zapsaný pod složkou L 64492 u Městského soudu v Praze
+IČ: 04675568</small></p>
+</div>
+</div>
+</body>
+  
+<div id="footer"></div>
+</html>
